@@ -1,0 +1,270 @@
+/* log in styling */
+
+
+
+/* log in styling end /*
+
+
+/*nav haed start   nav head start */   /*nav haed start   nav head start */  
+div.navhead{
+	   width:1368px;
+	   background-color:white;
+	   height:100px;
+	   position:;
+       margin-top:-26px;
+	   transform: scaleX(0.9) scaleY(1.1);
+       float:left;	   
+}
+div.eventsh3{
+background-color:white;
+width:1368px;
+margin-top:-6px;
+}
+div.eventsh3 p{
+	padding-bottom:0px;
+	margin-left:500px;
+}
+
+div.sportlogo h3{
+	margin-left:55px;
+	margin-top:-35px;
+}
+
+div.sportlogo img{
+	margin-left:0px;
+}
+
+div.sportlogo{
+	margin-left:100px;
+	margin-top:10px;
+	float:left;
+}
+div.nav1{
+	float:left;
+	margin-top:17px;
+	margin-left:90px;
+}
+
+div.nav2{
+	float:left;
+	margin-top:30px;
+	margin-left:90px;
+}
+div.nav3{
+	float:right;
+	width:;
+	
+	margin-top:15px;
+	margin-right:20px;
+}
+ 
+
+/*nav haed end nav  head end  */  /*nav haed end nav  head end  */ 
+
+div.containertrailer{
+	
+	margin-top:4px;
+	
+  width:1250px;
+  margin-left:50px;
+ background-color:;
+   float:left;
+   clear:left;
+  
+}
+
+  
+  
+  /* dental2 start styling  */
+  
+div.dental2{
+	padding-top:40px;
+	   clear:left;
+	   float:left;
+	   background-color:;
+	   margin-left:100px;
+	   width:1250px;
+	   height:555px;
+	   
+}
+
+div.dental3{
+	margin-top:30px;
+	 clear:left;
+	 float:left;
+	 background-color:ed;
+	 margin-left:87px;
+	 width:1250px;
+	 height:460px;
+	 
+	
+}
+
+div.dental4{
+	margin-top:10px;
+	 clear:left;
+	 float:left;
+	 background-color:;
+	 background-color: #e6e6e6;
+    opacity: 4;
+	 margin-left:147px;
+	 width:1100px;
+	 height:330px;
+	 
+	
+}
+	
+	/* footer styling */
+	
+	
+	 div.eventblogfooter{
+	 background-color:#4d4d4d;
+	 width:1350px;
+	 clear:left;
+	 float:left;
+	 margin-top:40px;
+	 margin-left:0px;
+	 height:270px;
+	 
+ }
+div.eventfooterbody{
+   margin-left:78px;
+   float:left;
+   padding-top:14px;
+	
+}
+
+div.eventfooterbody2{
+   margin-left:200px;
+   float:left;
+   padding-top:14px;
+	float:left;
+}
+p.copyright{
+	color:white;
+	 margin-left:499px;
+	 size:20px;
+}
+div.eventfooterbody3{
+   margin-left:205px;
+   float:left;
+   padding-top:14px;
+	float:left;
+}
+
+div.eventfooterbody4{
+   margin-left:185px;
+   float:left;
+   padding-top:14px;
+	float:
+}
+
+ h5.h3event{
+	 color:white;
+	 margin-left:34px
+ }
+
+ .fa {
+  padding:7px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+	
+	hr.hrevent{
+		width:1300px;
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+	
+	
+	/* card profile styling */
+	
+	.card {
+    box-shadow: 0 9px 13px 0 rgba(0, 0, 0, 0.9);
+    max-width: 300px;
+	height:365px;
+	width:250px;
+	float:left;
+	
+	margin-right:160px;
+    
+    
+}
+
+.container {
+    padding: 0 16px;
+}
+
+.titl{
+    color: grey;
+    font-size: 18px;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 19%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+button:hover, a:hover {
+    opacity: 0.8;
+}
+
+
+	
+	/*end profile card styling*/
+	div.payment2{
+		clear:left;
+		width:1350px;
+		float:left;
+		margin-left:60px;
+		margin-top:25px;
+  background-color:ed;	
+	}
+	
